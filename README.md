@@ -10,11 +10,11 @@ Hier findet ihr eine fortlaufende Übersicht über unsere bislang kennengelernte
    - [Body-Elemente](#2-body-elemente-der-sichtbare-bereich-eurer-webseite)
        - [Block Elemente](#21-block-elemente-nehmen-die-gesamte-breite-des-bildschirms-ein)
        - [Inline Elemente](#22-inline-elemente-nehmen-nur-die-breite-ihres-inhalts)
-2. [CSS-Eigenschaften](#css-eigenschaften)
+<!-- 2. [CSS-Eigenschaften](#css-eigenschaften)
    - [Textformatierung](#textformatierung)
    - [Größen](#größen)
    - [Abstände und Rahmen](#abstände-und-rahmen)
-   - [Hintergrund](#hintergrund)
+   - [Hintergrund](#hintergrund) -->
 3. [Nützliche Tastenkombinationen](#nützliche-tastenkombinationen-windows)
 
 <br><br><br>
@@ -63,10 +63,10 @@ Folgende Elemente haben wir bislang kennengelernt:
 |:-------------:|:------------------------------------------:|:------------------------------------:|
 | `<h1>`...`<h6>` | Überschriften                            | `<h1>Überschrift</h1>`               |
 | `<p>`          | Textabsatz                                | `<p>Textabsatz</p>`                  |
-| `<ul>`         | Ungeordnete Liste                         | `<ul><li>Element</li></ul>`          |
-| `<ol>`         | Geordnete Liste                           | `<ol><li>Erstes Element</li></ol>`   |
+<!-- | `<ul>`         | Ungeordnete Liste                         | `<ul><li>Element</li></ul>`          | -->
+<!-- | `<ol>`         | Geordnete Liste                           | `<ol><li>Erstes Element</li></ol>`   |
 | `<li>`         | Listenelement                             | `<li>Listeneintrag</li>`             |
-| `<div>`        | Containerelement                          | `<div>Inhalt</div>`                  |
+| `<div>`        | Containerelement                          | `<div>Inhalt</div>`                  | -->
 
 
    
@@ -79,7 +79,7 @@ Folgende Elemente haben wir bislang kennengelernt:
 | `<img>`      | Bild einfügen                                 | `<img src="url" alt="Bildbeschreibung">`  |
 
 <br><br><br>
-## CSS-Eigenschaften
+<!-- ## CSS-Eigenschaften
 **CSS** steht für ***Cascading Style Sheets*** und wird verwendet, um das Aussehen von HTML-Elementen auf einer Webseite zu definieren. Mit CSS können verschiedene Eigenschaften wie Farbe, Schriftart und Positionierung definiert werden. Durch die Trennung von Inhalt und Design wird das Ändern des Aussehens der Webseite einfacher, da nur das CSS geändert werden muss, ohne den HTML-Code zu bearbeiten.
 
 
@@ -115,7 +115,7 @@ Folgende Elemente haben wir bislang kennengelernt:
 | `background-repeat`   | Legt fest, ob und wie das Hintergrundbild wiederholt wird. | `background-repeat: no-repeat;`     |
 | `background-position` | Definiert die Position des Hintergrundbildes.         | `background-position: center;`      |
 | `background-attachment` | Legt fest, ob das Hintergrundbild scrollt oder fixiert ist. | `background-attachment: fixed;` |
-
+ -->
 
 
 
